@@ -1,6 +1,9 @@
 # modules
 node_modules
 
+# heroku
+Procfile
+
 # env vars
 .env
 
